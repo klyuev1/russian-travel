@@ -17,5 +17,5 @@
 * Проект выполнен по методологии БЭМ
 
 ------
-**[Ссылка](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)** на макет в Figma
-**[Ссылка](https://klyuev1.github.io/russian-travel/)** на сайт проекта
+Макет в Figma - **[Ссылка](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)**
+Сайт проекта - **[Ссылка](https://klyuev1.github.io/russian-travel/)**
