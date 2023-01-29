@@ -1,16 +1,16 @@
 .header__lang-link {
+  padding: 0;
   margin: 0;
   color: #fff;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 28px;
-  text-decoration-line: underline;
+  text-decoration-line: none;
   margin-right: 18px;
   transition: opacity 0.2s linear;
 }
 .header__lang-link:last-child {
-  text-decoration-line: none;
   margin: 0;
 }
 .header__lang-link:hover {
