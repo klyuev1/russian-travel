@@ -1,8 +1,8 @@
 .place__website {
   display: flex;
   flex-direction: column;
-  grid-area: website;
   justify-content: flex-end;
+  grid-area: website;
 }
 
 @media screen and (max-width: 720px) {
